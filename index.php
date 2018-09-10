@@ -28,7 +28,7 @@ if (!isset($_COOKIE['gmc'])){
     <meta http-equiv="X-UA-Compatible" content="ie=edge">
     <title>php cookies</title>
     
-    //$stylesheet changes according to whether cookie is set or not
+<!--    $stylesheet changes according to whether cookie is set or not-->
     <link href="<?php echo "$stylesheet.css"; ?>" rel="stylesheet" type="text/css">
 
 </head>
